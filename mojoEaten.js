@@ -32,5 +32,6 @@ const calculationMojo = (availMojo) => {
 const result = calculationMojo(20);
 
 // result show
+// result show
 console.log("Eaten Mojo: ", result.eatenMojo);
 console.log("Available Mutki: ", result.mutki);
